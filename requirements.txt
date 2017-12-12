@@ -1,0 +1,3 @@
+openpyxl==2.4.9
+vklancer==1.4.0
+
